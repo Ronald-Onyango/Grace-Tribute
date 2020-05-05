@@ -1,0 +1,33 @@
+h1.heading {
+    font-family: Lobster, cursive;
+    font-size: 80px;
+    text-align: center;
+
+}
+
+img {
+   float: left;
+   width: 50%;
+   height: 50%;
+   margin-left: 70px;
+   margin-top: 10px;
+   border-radius: 50%;
+   border: 2px solid rgb(25, 31, 25);
+}
+div.header {
+    height: 100%;
+    display: flex;
+}
+div.header2 {
+    justify-content: space-around;
+
+}
+h2 {
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}
+/* responsive for laptop size >> margin top for header to +ve 
+
+*/
