@@ -5,7 +5,7 @@ h1.heading {
 
 }
 
-img {
+img.grace {
    float: left;
    width: 50%;
    height: 50%;
@@ -31,3 +31,19 @@ p {
 /* responsive for laptop size >> margin top for header to +ve 
 
 */
+.eulogy {
+    display: flex;
+    width: 100%;
+}
+.dick {
+    text-align: center;
+    width: 100%;
+}
+.eulogy img {
+    width: 50%;
+    height: 30%;
+    border-radius: 100%;
+}
+.eulogy h4 {
+    font-size: 35px;
+}
