@@ -64,3 +64,17 @@ p {
     text-align: center;
 
 }
+.songs {
+    display: flex;
+}
+.song1 {
+    /* width: 45%; */
+    margin: auto;
+    /* height: 33rem; */
+    border: 2px solid red;
+    text-align: center;
+    display: inline;
+}
+.song1 p {
+    font-size: 20px;
+}
