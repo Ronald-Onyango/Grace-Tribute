@@ -1,3 +1,6 @@
+body {
+    background-color: grey;
+}
 h1.heading {
     font-family: Lobster, cursive;
     font-size: 80px;
@@ -20,7 +23,6 @@ div.header {
 }
 div.header2 {
     justify-content: space-around;
-
 }
 h2 {
     text-align: center;
@@ -34,16 +36,31 @@ p {
 .eulogy {
     display: flex;
     width: 100%;
+    height: 550px;
 }
 .dick {
     text-align: center;
-    width: 100%;
+    width: 24.7%;
+    margin: auto;
+    border: 1px solid rgb(70, 61, 61);
+    border-radius: 2%;
+}
+.dick p {
+    font-size: 20px;
+}
+.dick:hover {
+    border: 2px solid rgb(75, 60, 60);
+    background-color: white;
 }
 .eulogy img {
     width: 50%;
-    height: 30%;
-    border-radius: 100%;
+    height: 10rem;
+    border-radius: 40%;
 }
 .eulogy h4 {
     font-size: 35px;
+}
+.eulogies h1 {
+    text-align: center;
+
 }
