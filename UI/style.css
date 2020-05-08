@@ -68,12 +68,12 @@ p {
     display: flex;
 }
 .song1 {
-    /* width: 45%; */
+    width: 45%;
     margin: auto;
-    /* height: 33rem; */
+    height: 35rem;
     border: 2px solid red;
     text-align: center;
-    display: inline;
+    display: block;
 }
 .song1 p {
     font-size: 20px;
