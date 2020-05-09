@@ -1,6 +1,13 @@
 body {
     background-color: grey;
 }
+#main {
+    background-color: white;
+}
+#title {
+    font-size: 50px;
+    font-family: cursive;
+}
 h1.heading {
     font-family: Lobster, cursive;
     font-size: 80px;
