@@ -100,3 +100,14 @@ p {
 footer {
     text-align: center;
 }
+.back_to_eulogies {
+    font-size: 30px;
+    text-align: center;
+}
+.fam_moments {
+    font-size: 30px;
+}
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
