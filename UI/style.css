@@ -49,6 +49,7 @@ p {
     text-align: center;
     width: 24.7%;
     margin: auto;
+    cursor: pointer;
     border: 1px solid rgb(70, 61, 61);
     border-radius: 2%;
 }
@@ -77,11 +78,14 @@ p {
 .song1 {
     width: 45%;
     margin: auto;
-    height: 35rem;
-    border: 2px solid red;
+    height: 36rem;
+    border: 2px solid gold;
     text-align: center;
     display: block;
     background-color: rgb(209, 202, 202);
+}
+.song1 h3 {
+    font-size: 30px;
 }
 .song1 p {
     font-size: 20px;
@@ -100,6 +104,10 @@ p {
 }
 footer {
     text-align: center;
+}
+footer p {
+    color: gold;
+    font-weight: bold;
 }
 .back_to_eulogies {
     font-size: 30px;
